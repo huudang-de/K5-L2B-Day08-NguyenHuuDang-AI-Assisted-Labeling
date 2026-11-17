@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2B
 - Tài khoản GitHub: huudang-de
 - Repo bài nộp (URL): https://github.com/huudang-de/K5-L2B-Day08-NguyenHuuDang-AI-Assisted-Labeling
-- Commit chốt bài (hash): 7553757 (Part 4) — nhánh main
+- Commit chốt bài (hash): 6c52cf8 (Part 5–6; bản rà soát cuối trên nhánh main)
 - Máy: Windows, không có GPU (CPU, RAM 24 GB)
 - CVAT (Docker): v2.74.1
 

@@ -83,7 +83,7 @@
 
 **Quyết định: `Rework`**, ngày `2026-11-17`.
 **Lý do (theo cây Hold → Rework → Release):** Không bị `Hold` vì guideline đã được hiệu chỉnh sang `v1.1` và dữ liệu ảnh gốc sạch; tuy nhiên phải chọn **`Rework`** vì đồng thời vi phạm hai điều kiện chất lượng: **(1)** tỉ lệ ảnh có lỗi ở mẫu QC là `2/6 = 33.3% > 2%`, và **(2)** tỉ lệ bắt bẫy chỉ đạt `8/12 = 66.7% < 80%` (lọt 2 bẫy `loose`, 1 `missing`, 1 `wrong_class`).
-**Việc cần làm tiếp:** Mở lại lô `batch-review` trên CVAT theo `guideline_v1.1_calibrated.md`, sửa trực tiếp box `#11` (`img_003`), `#142` (`img_013`) và rà lại toàn bộ 24 ảnh với checklist bắt buộc ẩn nhãn + kiểm 4 cạnh viền trước khi chạy lại QC.
+**Việc cần làm tiếp:** Mở lại lô `batch-review` trên CVAT theo `guideline_v1.1_calibrated.md`, sửa trực tiếp box `#11` (`img_003`), `#142` (`img_013`), xử lý 6 cảnh báo box `< 20 px` trong `batch_reviewed.json` (`img_023`, `025`, `027`, `033`, `034`), và rà lại toàn bộ 24 ảnh với checklist bắt buộc ẩn nhãn + kiểm 4 cạnh viền trước khi chạy lại QC.
 
 ## 8. Ghi chú cá nhân
 
