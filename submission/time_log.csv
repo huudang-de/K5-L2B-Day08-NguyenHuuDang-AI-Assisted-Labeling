@@ -1,2 +1,3 @@
 step,images,minutes,note
 gold_manual,4,17,"gán tay 4 ảnh gold (img_001: 6p, img_012: 2p, img_020: 6p, img_036: 3p)"
+batch_review,24,46,"duyệt 24 ảnh batch có pre-label (18:18 - 19:04)"
