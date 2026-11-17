@@ -1,0 +1,7 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,11,thua,huudang-de,"chỉ thấy tên three_wheeler, không thấy rõ hình xe"
+img_006.jpg,,khong,huudang-de,"sạch"
+img_013.jpg,142,sai_lop,huudang-de,"xe 16 chỗ (minibus) bị gán car thay vì bus"
+img_014.jpg,,khong,huudang-de,"sạch"
+img_022.jpg,,khong,huudang-de,"sạch"
+img_033.jpg,,khong,huudang-de,"sạch"
